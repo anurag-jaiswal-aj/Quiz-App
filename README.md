@@ -1,5 +1,5 @@
 Overview:
-Day 3 of the #30Days30Projects challenge brought forth an Interactive Quiz App. This project, built with HTML, CSS, and JavaScript, aims to engage users with dynamic quiz questions and real-time score tracking.
+Day 3 of the #30Days30Projects challenge brought forth an Interactive Quiz App. This project, built with HTML, CSS, and JavaScript, aims to engage users with quiz questions and real-time score tracking.
 
 Features:
 User-friendly Interface: HTML and CSS for an aesthetically pleasing experience.
